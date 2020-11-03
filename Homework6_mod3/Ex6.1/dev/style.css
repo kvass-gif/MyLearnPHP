@@ -1,0 +1,18 @@
+ul.icon {
+  list-style-type: none;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+li img {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+li span.date {
+  opacity: 0.4;
+}
+
+li span.size {
+  opacity: 0.6;
+}
